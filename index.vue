@@ -197,24 +197,12 @@
     }
     .preview-left{
         left: 0;
-        // &:hover{
-        //     background: -webkit-linear-gradient(left, rgba(255,255,255,.7) , rgba(255,255,255,0)); /* Safari 5.1 - 6.0 */
-        //     background: -o-linear-gradient(right, rgba(255,255,255,.7) , rgba(255,255,255,0)); /* Opera 11.1 - 12.0 */
-        //     background: -moz-linear-gradient(right, rgba(255,255,255,.7) , rgba(255,255,255,0)); /* Firefox 3.6 - 15 */
-        //     background: linear-gradient(to right, rgba(255,255,255,.7) , rgba(255,255,255,0)); /* 标准的语法 */
-        // }
         .preview-icon{
             left: 20%;
         }
     }
     .preview-right{
         right: 0;
-        // &:hover{
-        //     background: -webkit-linear-gradient(right, rgba(255,255,255,.7) , rgba(255,255,255,0)); /* Safari 5.1 - 6.0 */
-        //     background: -o-linear-gradient(left, rgba(255,255,255,.7) , rgba(255,255,255,0)); /* Opera 11.1 - 12.0 */
-        //     background: -moz-linear-gradient(left, rgba(255,255,255,.7) , rgba(255,255,255,0)); /* Firefox 3.6 - 15 */
-        //     background: linear-gradient(to left, rgba(255,255,255,.7) , rgba(255,255,255,0)); /* 标准的语法 */
-        // }
         .preview-icon{
             right: 20%;
         }
