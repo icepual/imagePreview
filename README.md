@@ -6,7 +6,7 @@ categories:
     - VUE
 tags: VUE
 ---
-关于图片预览,以前常用jquery常用插件,今天用vue+css+js完成一个简单的图片预览组件,记录一下
+vue+css+js完成一个简单的图片预览组件
 
 <!-- more -->
 
