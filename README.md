@@ -1,11 +1,3 @@
----
-title: vue图片预览组件实例
-date: 2017-07-11 11:49:12
-categories:
-    - WEB
-    - VUE
-tags: VUE
----
 vue+css+js完成一个简单的图片预览组件
 
 <!-- more -->
